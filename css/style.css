@@ -31,7 +31,7 @@ li{
 	margin-top: 22%;
 	-webkit-transform-style:preserve-3d;
 	-webkit-transform:rotateX(13deg);
-	-webkit-animation:move 10s linear infinite;/* 旋转速度，时间越短速度越快 */
+	/*-webkit-animation:move 10s linear infinite;!* 旋转速度，时间越短速度越快 *!*/
 }
 .minbox{
 	width:100px;
